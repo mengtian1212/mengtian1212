@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-## 🎓About Me
+
 Hi there, my name is Meng Tian. You could call me Maggie.
 
+<!--
 I was a finance researcher holding a phd in business from Baruch College, City University of New York. Before that I earned my bachelor degree in economics from Tsinghua University, the top 1 university in China. I have a deep passion for logical thinking and my academic journey seamlessly blends these 
-
+-->
 
 🚀 Full Stack Developer based in Seattle, WA
 
@@ -27,6 +27,7 @@ I was a finance researcher holding a phd in business from Baruch College, City U
 
 🌟 Passionate about using codes to build creative and smart products, powered by solid engineering and data insights.
 
+<!--
 🔧 Proficient in languages like SAS, Matlab, and Python for complex calculations and modeling.
 
 👩‍💻 Experienced in coding, with a focus on modularity, scalability, and clean coding practices.
