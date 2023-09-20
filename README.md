@@ -62,7 +62,7 @@ I'm Meng (Maggie) Tian, a full-stack software engineer based in Seattle, WA, wit
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-## 🎨 Selected Projects
+## 🛠️ Selected Projects
 
 ### <a href="https://github.com/mengtian1212/FlavorEats" target="_blank" rel="noopener noreferrer" align="center">FlavorEats</a>
 An e-commerice web application inspired by UberEats and Yelp, bringing together 9 essential features catering to both customers and businesses.
