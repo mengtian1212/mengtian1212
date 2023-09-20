@@ -68,7 +68,7 @@ I'm Meng (Maggie) Tian, a full-stack software engineer based in Seattle, WA, wit
 An e-commerice web application inspired by UberEats and Yelp, bringing together 9 essential features catering to both customers and businesses.
 
 ### <a href="https://pinthis.onrender.com" target="_blank" rel="noopener noreferrer" align="center">PinThis</a>
-A finely crafted Pinterest clone that offers appealing image browsing, effortless collaboration, and social connections.
+A finely crafted Pinterest clone, developed with a team of four members, offering appealing image browsing, effortless collaboration, and social connections.
 
 ### <a href="https://github.com/mengtian1212/API-project" target="_blank" rel="noopener noreferrer" align="center">MeetFun</a>
 A community-centric web application focusing on live chatting and featuring group, event management and membership administration.
