@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hello there! I'm a full-stack software engineer based in Seattle, WA, with a background encompassing web development, data science, and machine learning.
+I'm Meng (Maggie) Tian, a full-stack software engineer based in Seattle, WA, with a background in web development, data science, and machine learning.
 
 About Me
 
-- I earned my bachelor's degree from Tsinghua University in 2012, a prestigious institution renowned as China's leading engineering college. During my tenure there, I received rigorous training in mathematics, statistics, and a range of programming-related courses. Guided by the university's engineering ethos, I regularly utilized various scripting languages for economic modeling and embraced diverse programming tools for data mining.
+- I earned my bachelor's degree from Tsinghua University in 2012, known as China's top university and a leading engineering school. During my tenure there, I received rigorous training in mathematics, statistics, and a range of programming-related courses. Influenced by the university's engineering ethos, I often utilized various scripting languages for economic modeling and adopted diverse programming tools for data mining.
 
 -  My thirst for knowledge led me to pursue a Ph.D. in business from Baruch College, City University of New York, where I defended my thesis in 2020 and was awarded my degree in 2021. Subsequently, I transitioned into a role as a research engineer and accomplished two successful publications.
 
