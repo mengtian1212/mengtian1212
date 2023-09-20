@@ -33,6 +33,22 @@ I was a finance researcher holding a phd in business. Before that I earned my ba
 
 🌟 Passionate about using codes to build creative and smart products, powered by solid engineering and data insights.
 
+<!--
+🔧 Proficient in languages like SAS, Matlab, and Python for complex calculations and modeling.
+
+👩‍💻 Experienced in coding, with a focus on modularity, scalability, and clean coding practices.
+
+🌐 Skilled in a variety of frameworks and tools including Node.js, React, Flask, Express, and more.
+
+📚 Continuously learning and growing in the ever-evolving tech landscape.
+
+🌟 Excited to collaborate on impactful projects and contribute to the tech community.
+
+Connect with me and let's explore the world of software development together!
+-->
+
+
+
 # 💻 Skills:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -56,19 +72,5 @@ I was a finance researcher holding a phd in business. Before that I earned my ba
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://camo.githubusercontent.com/4d015bf250194995d899a5d2b90babf1afc4458c1589b93e58fdfa4119749a49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3436613266313f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-<!--
-🔧 Proficient in languages like SAS, Matlab, and Python for complex calculations and modeling.
-
-👩‍💻 Experienced in coding, with a focus on modularity, scalability, and clean coding practices.
-
-🌐 Skilled in a variety of frameworks and tools including Node.js, React, Flask, Express, and more.
-
-📚 Continuously learning and growing in the ever-evolving tech landscape.
-
-🌟 Excited to collaborate on impactful projects and contribute to the tech community.
-
-Connect with me and let's explore the world of software development together!
--->
