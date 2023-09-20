@@ -21,7 +21,7 @@ I'm Meng (Maggie) Tian, a full-stack software engineer based in Seattle, WA, wit
 
 - I earned my bachelor's degree from Tsinghua University in 2012, renowned as China's top university and a leading engineering school. During my time there, I received rigorous training in mathematics, statistics, and programming. Influenced by the university's engineering ethos, I often used various scripting languages for economic modeling and programming tools for data mining.
 
--  My thirst for knowledge led me to pursue a Ph.D. in business from Baruch College, City University of New York, where I defended thesis in 2020 and received degree in 2021. Following this, I worked as a research engineer and accomplished two successful publications. My research primarily focuses on coding and algorithmic development for financial trading, and pioneering the integration of machine learning into financial research.
+-  My thirst for knowledge led me to pursue a Ph.D. in business from Baruch College, City University of New York. Following this, I worked as a research engineer and accomplished two successful publications. My research primarily focuses on coding and algorithmic development for financial trading, and pioneering the integration of machine learning into financial research.
 
 - As a dedicated coder and hobbyist programmer, I finally took the plunge into a full-fledged engineering career, completing App Academy's intensive six-month coding bootcamp in 2023. This experience significantly expanded my web development skills, allowing me to transform business insights into tangible, data-driven solutions — a truly satisfying journey.
 
