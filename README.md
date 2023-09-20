@@ -21,11 +21,11 @@ I'm Meng (Maggie) Tian, a full-stack software engineer based in Seattle, WA, wit
 
 - I earned my bachelor's degree from Tsinghua University in 2012, known as China's top university and a leading engineering school. During my tenure there, I received rigorous training in mathematics, statistics, and programming. Influenced by the university's engineering ethos, I often used various scripting languages for economic modeling and diverse programming tools for data mining.
 
--  My thirst for knowledge led me to pursue a Ph.D. in business from Baruch College, City University of New York, where I defended my thesis in 2020 and was awarded my degree in 2021. Subsequently, I transitioned into a role as a research engineer and accomplished two successful publications. My research primarily centers on coding and algorithmic development for financial trading. I'm also one of the first, integrating machine learning for financial research.
+-  My thirst for knowledge led me to pursue a Ph.D. in business from Baruch College, City University of New York, where I defended thesis in 2020 and received degree in 2021. Following this, I worked as a research engineer and accomplished two successful publications. My research primarily focuses on coding and algorithmic development for financial trading, and pioneering the integration of machine learning into financial research.
 
 - As a dedicated coder and hobbyist programmer, I finally took the plunge into a full-fledged engineering career. I completed App Academy's intensive six-month coding bootcamp in 2023. This experience significantly expanded my web development skills, allowing me to transform business insights into tangible, data-driven solutions — a truly satisfying journey.
 
- - My aspiration is to create intelligent, user-friendly products enriched by data-driven insights and powered by cutting-edge machine learning technology. With my proficiency in modern web technologies, coding expertise, and a data-centric mindset, I'm now wholeheartedly dedicated to a software engineering career that allows me to harness my diverse skill set to the fullest.
+ - I aspire to build intelligent, user-friendly products that leverage data-driven insights and cutting-edge machine learning. With expertise in modern web technologies and a data-centric mindset, I'm now fully dedicated to a software engineering career that lets me utilize my diverse skills to the fullest.
 
 - Let's connect and create something amazing together! 
 
