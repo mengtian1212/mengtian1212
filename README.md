@@ -1,4 +1,4 @@
-### Welcome to my GitHub page 👋
+## Welcome to my GitHub page 👋
 
 <!--
 **mengtian1212/mengtian1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Meng (Maggie) Tian, a full-stack software engineer based in Seattle, WA, with a background in web development, data science, and machine learning.
 
-### 😄 About Me
+## 😄 About Me
 
 - I earned my bachelor's degree from Tsinghua University in 2012, renowned as China's top university and a leading engineering school. During my time there, I received rigorous training in mathematics, statistics, and programming. Influenced by the university's engineering ethos, I often used various scripting languages for economic modeling and programming tools for data mining.
 
@@ -29,7 +29,7 @@ I'm Meng (Maggie) Tian, a full-stack software engineer based in Seattle, WA, wit
 
 - Let's connect and create something amazing together! 
 
-### 💻 Skills:
+## 💻 Skills:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -61,4 +61,20 @@ I'm Meng (Maggie) Tian, a full-stack software engineer based in Seattle, WA, wit
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
+## 🎨 Selected Projects
+
+### FlavorEats
+An e-commerice web application inspired by UberEats and Yelp, bringing together 9 essential features catering to both customers and businesses.
+
+### PinThis
+A finely crafted Pinterest clone that offers appealing image browsing, effortless collaboration, and social connections.
+
+### MeetFun
+A community-centric web application focusing on live chatting and featuring group, event management and membership administration.
+
+## 🌐 Let's Connect!
+- Personal website: https://www.maggietian.com/
+- Linkedin: https://www.linkedin.com/in/mengtian1212/
+- Email: mengtian.thu@gmail.com
 
