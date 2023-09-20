@@ -33,7 +33,7 @@ I was a finance researcher holding a phd in business. Before that I earned my ba
 
 🌟 Passionate about using codes to build creative and smart products, powered by solid engineering and data insights.
 
-# 💻 Tech and Languages:
+# 💻 Skills:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
