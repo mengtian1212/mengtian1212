@@ -54,7 +54,7 @@ Connect with me and let's explore the world of software development together!
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-[!SQLAlchemy](https://camo.githubusercontent.com/d717ed27301c7ae16ddab56d577b341b314867afa01b539420469763f6617e37/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c416c6368656d792d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d73716c616c6368656d79266c6f676f436f6c6f723d7768697465)
+![SQLAlchemy](https://camo.githubusercontent.com/d717ed27301c7ae16ddab56d577b341b314867afa01b539420469763f6617e37/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c416c6368656d792d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d73716c616c6368656d79266c6f676f436f6c6f723d7768697465)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
