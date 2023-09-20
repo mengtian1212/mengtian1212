@@ -21,32 +21,13 @@ About Me
 
 - I earned my bachelor's degree from Tsinghua University in 2012, known as China's top university and a leading engineering school. During my tenure there, I received rigorous training in mathematics, statistics, and a range of programming-related courses. Influenced by the university's engineering ethos, I often utilized various scripting languages for economic modeling and adopted diverse programming tools for data mining.
 
--  My thirst for knowledge led me to pursue a Ph.D. in business from Baruch College, City University of New York, where I defended my thesis in 2020 and was awarded my degree in 2021. Subsequently, I transitioned into a role as a research engineer and accomplished two successful publications.
-
--  My research primarily centers on coding and algorithmic development for financial trading.  I'm also one of the first, integrating machine learning for financial research, and unveiling the transformative potential of programming and engineering in understanding intricate economic phenomena.
+-  My thirst for knowledge led me to pursue a Ph.D. in business from Baruch College, City University of New York, where I defended my thesis in 2020 and was awarded my degree in 2021. Subsequently, I transitioned into a role as a research engineer and accomplished two successful publications. My research primarily centers on coding and algorithmic development for financial trading.  I'm also one of the first, integrating machine learning for financial research.
 
  - As a dedicated coder and hobbyist programmer, I finally took the plunge into an pure engineering career. I completed App Academy's intensive six-month coding bootcamp in 2023. This experience provided extensive exposure to web development, enhancing my skills and broadening my experience. I discovered immense satisfaction in translating business insights into tangible, data-driven solutions.
 
  - My aspiration is to create intelligent, user-friendly products enriched by data-driven insights and powered by cutting-edge machine learning technology. With my proficiency in modern web technologies, coding expertise, and a data-centric mindset, I'm now wholeheartedly dedicated to a software engineering career that allows me to harness my diverse skill set to the fullest.
 
 - Let's connect and create something amazing together! 
-
-
-<!--
-🔧 Proficient in languages like SAS, Matlab, and Python for complex calculations and modeling.
-
-👩‍💻 Experienced in coding, with a focus on modularity, scalability, and clean coding practices.
-
-🌐 Skilled in a variety of frameworks and tools including Node.js, React, Flask, Express, and more.
-
-📚 Continuously learning and growing in the ever-evolving tech landscape.
-
-🌟 Excited to collaborate on impactful projects and contribute to the tech community.
-
-Connect with me and let's explore the world of software development together!
--->
-
-
 
 # 💻 Skills:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
