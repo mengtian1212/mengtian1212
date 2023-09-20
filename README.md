@@ -23,7 +23,7 @@ About Me
 
 -  My thirst for knowledge led me to pursue a Ph.D. in business from Baruch College, City University of New York, where I defended my thesis in 2020 and was awarded my degree in 2021. Subsequently, I transitioned into a role as a research engineer and accomplished two successful publications. My research primarily centers on coding and algorithmic development for financial trading.  I'm also one of the first, integrating machine learning for financial research.
 
- - As a dedicated coder and hobbyist programmer, I finally took the plunge into an pure engineering career. I completed App Academy's intensive six-month coding bootcamp in 2023. This experience provided extensive exposure to web development, enhancing my skills and broadening my experience. I discovered immense satisfaction in translating business insights into tangible, data-driven solutions.
+- As a dedicated coder and hobbyist programmer, I finally took the plunge into a full-fledged engineering career. I completed App Academy's intensive six-month coding bootcamp in 2023. This experience significantly expanded my web development skills, allowing me to transform business insights into tangible, data-driven solutions — a truly satisfying journey.
 
  - My aspiration is to create intelligent, user-friendly products enriched by data-driven insights and powered by cutting-edge machine learning technology. With my proficiency in modern web technologies, coding expertise, and a data-centric mindset, I'm now wholeheartedly dedicated to a software engineering career that allows me to harness my diverse skill set to the fullest.
 
