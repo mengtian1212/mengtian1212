@@ -15,23 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there, my name is Meng Tian. You could call me Maggie.
+👋 Hello there! I'm a full-stack software engineer based in Seattle, WA, with a background encompassing web development, data science, and machine learning.
 
-<!--
-Hi there 👋
+About Me
 
-About me
+- I earned my bachelor's degree from Tsinghua University in 2012, a prestigious institution renowned as China's leading engineering college. During my tenure there, I received rigorous training in mathematics, statistics, and a range of programming-related courses. Guided by the university's engineering ethos, I regularly utilized various scripting languages for economic modeling and embraced diverse programming tools for data mining.
 
-I am a software engineer with a background in data science and quantitative research.
+-  My thirst for knowledge led me to pursue a Ph.D. in business from Baruch College, City University of New York, where I defended my thesis in 2020 and was awarded my degree in 2021. Subsequently, I transitioned into a role as a research engineer and accomplished two successful publications.
 
-I was a finance researcher holding a phd in business. Before that I earned my bachelor degree in economics from Tsinghua University, the top 1 university in China. I have a deep passion for logical thinking and my academic journey seamlessly blends these 
--->
+-  My research primarily centers on coding and algorithmic development for financial trading.  I'm also one of the first, integrating machine learning for financial research, and unveiling the transformative potential of programming and engineering in understanding intricate economic phenomena.
 
-🚀 Full Stack Developer based in Seattle, WA
+ - As a dedicated coder and hobbyist programmer, I finally took the plunge into an pure engineering career. I completed App Academy's intensive six-month coding bootcamp in 2023. This experience provided extensive exposure to web development, enhancing my skills and broadening my experience. I discovered immense satisfaction in translating business insights into tangible, data-driven solutions.
 
-🎓 Ph.D. in Business | 🧠 Data Science & Machine Learning Enthusiast
+ - My aspiration is to create intelligent, user-friendly products enriched by data-driven insights and powered by cutting-edge machine learning technology. With my proficiency in modern web technologies, coding expertise, and a data-centric mindset, I'm now wholeheartedly dedicated to a software engineering career that allows me to harness my diverse skill set to the fullest.
 
-🌟 Passionate about using codes to build creative and smart products, powered by solid engineering and data insights.
+- Let's connect and create something amazing together! 
+
 
 <!--
 🔧 Proficient in languages like SAS, Matlab, and Python for complex calculations and modeling.
