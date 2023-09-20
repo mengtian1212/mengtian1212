@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Meng (Maggie) Tian, a full-stack software engineer based in Seattle, WA, with a background in web development, data science, and machine learning.
 
-# 😎 About Me
+### 😄 About Me
 
 - I earned my bachelor's degree from Tsinghua University in 2012, renowned as China's top university and a leading engineering school. During my time there, I received rigorous training in mathematics, statistics, and programming. Influenced by the university's engineering ethos, I often used various scripting languages for economic modeling and diverse programming tools for data mining.
 
@@ -29,7 +29,7 @@ I'm Meng (Maggie) Tian, a full-stack software engineer based in Seattle, WA, wit
 
 - Let's connect and create something amazing together! 
 
-# 💻 Skills:
+### 💻 Skills:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
