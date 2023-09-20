@@ -64,7 +64,7 @@ I'm Meng (Maggie) Tian, a full-stack software engineer based in Seattle, WA, wit
 
 ## 🎨 Selected Projects
 
-### FlavorEats
+### <a href="https://github.com/mengtian1212/FlavorEats" target="_blank" rel="noopener noreferrer" align="center">FlavorEats</a>
 An e-commerice web application inspired by UberEats and Yelp, bringing together 9 essential features catering to both customers and businesses.
 
 ### PinThis
