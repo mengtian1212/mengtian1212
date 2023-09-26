@@ -76,5 +76,6 @@ A community-centric web application focusing on live chatting and featuring grou
 ## 🌐 Let's Connect!
 - Personal website: https://www.maggietian.com/
 - Linkedin: https://www.linkedin.com/in/mengtian1212/
+- Wellfound: https://wellfound.com/u/meng-tian-2
 - Email: mengtian.thu@gmail.com
 
